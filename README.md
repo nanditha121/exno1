@@ -52,7 +52,7 @@ print(df.describe())
 df.isnull().sum()
 ```
 ![image](https://github.com/nanditha121/exno1/assets/142209508/75842dfc-1ce9-401c-a40a-243506dc99b4)
-
+'''
 df.nunique()
 ```
 ![image](https://github.com/nanditha121/exno1/assets/142209508/727504a4-1d40-41f9-ac8d-dcba517764cd)
@@ -131,6 +131,7 @@ sns.boxplot(data=af)
 sns.scatterplot(data=af)
 ```
 ![op8](https://github.com/nanditha121/exno1/assets/142209508/bf9b871f-35e7-4075-940a-ff9eb295fbfa)
+
 ```
 data=[1,12,15,18,21,24,27,30,33,36,39,42,45,48,51,54,57,60,63,66,69,72,75,78,81,84,87,90,93,96,99,102,105]
 df=pd.DataFrame(data)
