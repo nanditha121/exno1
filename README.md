@@ -19,12 +19,16 @@ STEP 5: Remove outliers using IQR
 
 STEP 6: Use zscore of to remove outliers
 
-# Coding
+# Coding and Output:
 ```
 import pandas as pd
-df=pd.read_csv("/content/SAMPLEIDS.csv")
+import numpy as np
+import seaborn as sns
+import os 
+df=pd.read_csv("SAMPLEIDS.csv")
 df
 ```
+![o1](https://github.com/nanditha121/exno1/assets/142209508/ad624ae6-bfed-444c-97b5-a894757560c9)
 
 ```
 import pandas as pd
@@ -79,7 +83,7 @@ df.dropna()
 ```
 
 
-#Output:
+
 ![ex1](https://github.com/nanditha121/exno1/assets/142209508/31fbd124-d28b-4448-bc44-0d5cc69c9a6a) 
 
 ![ex1](https://github.com/nanditha121/exno1/assets/142209508/3e139bd7-c428-4522-a468-2f5e4f97e747)
