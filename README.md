@@ -82,6 +82,8 @@ df.dropna()
 #Output:
 ![ex1](https://github.com/nanditha121/exno1/assets/142209508/31fbd124-d28b-4448-bc44-0d5cc69c9a6a) 
 
+![ex1](https://github.com/nanditha121/exno1/assets/142209508/3e139bd7-c428-4522-a468-2f5e4f97e747)
+
 
 <img width="422" alt="img 2" src="https://github.com/nanditha121/exno1/assets/142209508/09ecb493-5f2e-4c85-b2d0-c5f47b239a12">
 
@@ -98,4 +100,4 @@ df.dropna()
 <img width="417" alt="img8" src="https://github.com/nanditha121/exno1/assets/142209508/e555deb7-63bd-4ff0-a7a8-82608c180a15">
 
 # Result
-          Thus the given data is read,cleansed and the cleaned data is saved into the file.
+Thus the given data is read,cleansed and the cleaned data is saved into the file.
