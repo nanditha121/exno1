@@ -52,7 +52,7 @@ print(df.describe())
 df.isnull().sum()
 ```
 ![image](https://github.com/nanditha121/exno1/assets/142209508/75842dfc-1ce9-401c-a40a-243506dc99b4)
-'''
+```
 df.nunique()
 ```
 ![image](https://github.com/nanditha121/exno1/assets/142209508/727504a4-1d40-41f9-ac8d-dcba517764cd)
