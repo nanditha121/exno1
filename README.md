@@ -84,20 +84,19 @@ df.dropna()
 
 ![ex1](https://github.com/nanditha121/exno1/assets/142209508/3e139bd7-c428-4522-a468-2f5e4f97e747)
 
+![ex1](https://github.com/nanditha121/exno1/assets/142209508/09ecb493-5f2e-4c85-b2d0-c5f47b239a12)
 
-<img width="422" alt="img 2" src="https://github.com/nanditha121/exno1/assets/142209508/09ecb493-5f2e-4c85-b2d0-c5f47b239a12">
+![ex1](https://github.com/nanditha121/exno1/assets/142209508/ab49db17-d2d0-41c3-8f1f-bf26fc1e88db)
 
-<img width="427" alt="img3" src="https://github.com/nanditha121/exno1/assets/142209508/ab49db17-d2d0-41c3-8f1f-bf26fc1e88db">
+![ex1](https://github.com/nanditha121/exno1/assets/142209508/71d54184-7e75-4665-9a3e-778b27c89879)
 
-<img width="375" alt="img4" src="https://github.com/nanditha121/exno1/assets/142209508/71d54184-7e75-4665-9a3e-778b27c89879">
+![ex1](https://github.com/nanditha121/exno1/assets/142209508/446ff844-1a6f-4287-aa6d-9fa880df31f6)
 
-<img width="428" alt="img5" src="https://github.com/nanditha121/exno1/assets/142209508/446ff844-1a6f-4287-aa6d-9fa880df31f6">
+![ex1](https://github.com/nanditha121/exno1/assets/142209508/ca6a0857-61c2-49d6-a0b6-422033f57c76)
 
-<img width="284" alt="img6" src="https://github.com/nanditha121/exno1/assets/142209508/ca6a0857-61c2-49d6-a0b6-422033f57c76">
+![ex1](https://github.com/nanditha121/exno1/assets/142209508/767ec547-7224-4582-ba6a-5342af8b194e)
 
-<img width="386" alt="img7" src="https://github.com/nanditha121/exno1/assets/142209508/767ec547-7224-4582-ba6a-5342af8b194e">
-
-<img width="417" alt="img8" src="https://github.com/nanditha121/exno1/assets/142209508/e555deb7-63bd-4ff0-a7a8-82608c180a15">
+![ex1](https://github.com/nanditha121/exno1/assets/142209508/e555deb7-63bd-4ff0-a7a8-82608c180a15)
 
 # Result
 Thus the given data is read,cleansed and the cleaned data is saved into the file.
